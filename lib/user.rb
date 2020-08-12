@@ -1,5 +1,5 @@
 class User
   
-  attr_reader: Name
+  attr_reader :first, :last
   
 end
